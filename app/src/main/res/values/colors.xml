@@ -13,4 +13,6 @@
 
     <color name="primary">#FFFFFF</color>
     <color name="secondary">#AAAAAA</color>
+
+    <color name="darkGray">#323232</color>
 </resources>
